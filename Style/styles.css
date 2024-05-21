@@ -513,6 +513,7 @@ span {
 
     .about{
         flex-direction: column;
+        color: var(--text-color);
     }
 
     .about-img img{
